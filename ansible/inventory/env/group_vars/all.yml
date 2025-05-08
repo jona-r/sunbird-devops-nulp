@@ -44,6 +44,7 @@ sunbird_user_profile_field_default_visibility: private
 # Player
 sunbird_external_content_whitelisted_domains: ""
 sunbird_portal_user_upload_ref_link: http://www.sunbird.org/features-documentation/register_user
+discussion_forum_key: "{{discussion_forum_key}}"
 
 # Content
 content_service_whitelisted_channels: ""
